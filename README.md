@@ -33,6 +33,3 @@ In the given notebook we are considering only the yellow taxis for the time peri
 
 - Sagar Gupta
 
-## **Acknowledgement**
-
-- Applied AI Course
